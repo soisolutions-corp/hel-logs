@@ -1,0 +1,157 @@
+2024-05-16T23:09:49.604748-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T220948.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T22:09:49.243510-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T210948.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T21:09:48.941528-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T200947.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T20:09:48.692023-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T190947.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T19:09:48.114748-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success ßfor subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T180947.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T18:09:47.746228-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T170946.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T17:49:28.171393-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Session FnfZ10Zrva6Wz6DN3Tow user:- expired
+
+2024-05-16T17:09:47.424162-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T160946.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T16:29:27.133307-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Session WHKsgkSc3yjJma1Zg0B5 user:- expired
+
+2024-05-16T16:15:38.204537-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:- id:FnfZ10Zrva6Wz6DN3Tow 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/10.0.0.12 Safari/537.36
+
+2024-05-16T16:15:38.203022-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:- id:FnfZ10Zrva6Wz6DN3Tow 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/10.0.0.12 Safari/537.36
+2024-05-16T16:15:37.986937-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:- id:FnfZ10Zrva6Wz6DN3Tow 200 GET /login?CSRFKey=28c66232-013b-395b-4562-86d14c465727&referrer=https%3A%2F%jsmith.acme.com%2Fdefault HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/10.0.0.12 Safari/537.36
+2024-05-16T16:15:37.933785-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Session Z3O90W0EyPwfeKjV0ssQ from 10.0.0.12 not found
+
+2024-05-16T16:09:47.145286-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T150946.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T15:09:46.673919-04:00 [jsmith.acme.com] -- SMA_System_Logs_HQ_Syslog: Info: Push success for subscription SMA_Authentication_Logs_HQ_Syslog: Log authentication.jsmith.acme.com.@20240516T140945.s pushed via SCP to remote host 10.0.0.12:22
+
+2024-05-16T14:57:23.272911-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: A System/Critical alert was sent to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get...".
+
+2024-05-16T14:57:23.272614-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Internal SMTP system successfully sent a message to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get...".
+2024-05-16T14:57:23.049313-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: TLS connection failed due to ssl error, sending alert message in clear text to informationsecurity@acme.com
+2024-05-16T14:57:23.025080-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Internal SMTP system attempting to send a message to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get..." (attempt #0).
+
+2024-05-16T14:54:44.411932-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:- id:WHKsgkSc3yjJma1Zg0B5 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:54:44.410135-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:- id:WHKsgkSc3yjJma1Zg0B5 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:54:43.881387-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:- id:WHKsgkSc3yjJma1Zg0B5 200 GET /login?logout=1 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:54:43.839344-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Session sQKSpumsaWaU9k1QWWjs from 10.0.0.12 not found
+2024-05-16T14:54:43.577025-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 303 GET /login?action=Logout&referrer=https%3A%2F%jsmith.acme.com%2Fnetwork%2Fcloud_service_settings HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:54:43.569285-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: SourceIP:10.0.0.12 Destination:/login Username:wojcib$ session:sQKSpumsaWaU9k1QWWjs Action: Logout, the HTTPS session has been terminated.
+2024-05-16T14:54:43.568740-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Session sQKSpumsaWaU9k1QWWjs user:acarlos$ expired
+
+2024-05-16T14:52:24.360260-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:52:24.283437-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:52:23.772938-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/cloud_service_settings HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:51:21.593909-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:51:21.579724-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:51:20.965822-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 POST /network/certificates HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:51:13.259142-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/certificates?action=GetStatus&background_request=ignore&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715885472799 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:50:43.120606-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 500 GET /network/certificates?action=GetAvailabilityStatus&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715885442162 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:50:43.086093-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Critical: An application fault occurred: ('shared/UpdateSupport.py get_available_updates|94', "<type 'exceptions.KeyError'>", "'asyncos'", '[util/Init.py screenLoop|416] [util/InternalLibrary.py inverseExtend|331] [util/InternalLibrary.py __call__|772] [screen/Controller.py __call__|27] [util/InternalLibrary.py __call__|772] [screen/CommonController.py __call__|66] [util/InternalLibrary.py __call__|772] [screen/AppController.py __call__|199] [util/InternalLibrary.py __call__|774] [network/certificates.py __call__|88] [screen/Controller.py executeAction|70] [security_services/status_update.py doGetAvailabilityStatusAction|20] [shared/UpdateSupport.py get_available_updates|94]')
+2024-05-16T14:50:42.626285-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/certificates?action=GetStatus&background_request=ignore&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715885442162 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:50:41.605582-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:50:41.604203-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:50:40.989686-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/certificates HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:50:00.860598-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:50:00.749363-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:50:00.217533-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/routing HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:49:46.041246-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:49:46.041246-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:49:45.366769-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/dns HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:49:25.911799-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Session udwm3Tv8N5LOGtn4e0QB user:acarlos$ expired
+
+2024-05-16T14:49:25.905540-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: User kennya$ logged out from session udwm3Tv8N5LOGtn4e0QB because of inactivity timeout
+
+2024-05-16T14:48:33.800109-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:48:33.698429-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:48:33.157060-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 POST /network/smtp_routes HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:48:21.717773-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:48:21.333608-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:48:20.803539-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/smtp_routes HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:47:48.979670-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:47:48.876642-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:47:48.333625-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /network/ip_interfaces HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:47:22.949162-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: A System/Critical alert was sent to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get...".
+
+2024-05-16T14:47:22.948940-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Internal SMTP system successfully sent a message to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get...".
+2024-05-16T14:47:22.710912-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: TLS connection failed due to ssl error, sending alert message in clear text to informationsecurity@acme.com
+2024-05-16T14:47:22.684151-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Internal SMTP system attempting to send a message to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get..." (attempt #0).
+
+2024-05-16T14:47:11.651538-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:47:11.558074-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:47:10.952042-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/feature_keys/feature_keys HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:46:56.985496-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:46:56.903130-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:46:56.359275-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/feature_keys/feature_keys_settings HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:46:50.960492-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/system_time/time_settings?action=GetStatus&background_request=ignore&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715885210472 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:46:20.300312-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/system_time/time_settings?action=GetStatus&background_request=ignore&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715885180032 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:45:50.279239-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 500 GET /system_administration/system_time/time_settings?action=GetAvailabilityStatus&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715885149388 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:45:50.250957-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Critical: An application fault occurred: ('shared/UpdateSupport.py get_available_updates|94', "<type 'exceptions.KeyError'>", "'asyncos'", '[util/Aquarium.py screenLoop|416] [util/InternalLibrary.py inverseExtend|331] [util/InternalLibrary.py __call__|772] [screen/Controller.py __call__|27] [util/InternalLibrary.py __call__|772] [screen/CommonController.py __call__|66] [util/InternalLibrary.py __call__|772] [screen/AppController.py __call__|199] [util/InternalLibrary.py __call__|774] [system_time/time_settings.py __call__|49] [screen/Controller.py executeAction|70] [security_services/status_update.py doGetAvailabilityStatusAction|20] [shared/UpdateSupport.py get_available_updates|94]')
+2024-05-16T14:45:49.865304-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/system_time/time_settings?action=GetStatus&background_request=ignore&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715885149389 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:45:48.860245-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:45:48.746857-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:45:48.250640-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 POST /system_administration/system_time/time_settings HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:42:47.694711-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /scfw/1y-14.2.0-224/yui/calendar/assets/callt.gif HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:42:47.694369-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /scfw/1y-14.2.0-224/yui/calendar/assets/calrt.gif HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:47.299927-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /scfw/1y-14.2.0-224/images/clear.gif HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:46.755820-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:46.666019-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:46.150233-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 POST /system_administration/system_time/time_settings HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:42:22.933105-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: A System/Critical alert was sent to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get...".
+
+2024-05-16T14:42:22.932939-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Internal SMTP system successfully sent a message to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get...".
+2024-05-16T14:42:22.675354-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 500 GET /system_administration/system_time/time_settings?action=GetAvailabilityStatus&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715884941711 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:22.671206-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: TLS connection failed due to ssl error, sending alert message in clear text to informationsecurity@acme.com
+2024-05-16T14:42:22.610761-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: Internal SMTP system attempting to send a message to informationsecurity@acme.com with subject "Critical <System> jsmith.acme.com: An application fault occurred: ('shared/UpdateSupport.py get..." (attempt #0).
+2024-05-16T14:42:22.607767-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Critical: An application fault occurred: ('shared/UpdateSupport.py get_available_updates|94', "<type 'exceptions.KeyError'>", "'asyncos'", '[util/Aquarium.py screenLoop|416] [util/InternalLibrary.py inverseExtend|331] [util/InternalLibrary.py __call__|772] [screen/Controller.py __call__|27] [util/InternalLibrary.py __call__|772] [screen/CommonController.py __call__|66] [util/InternalLibrary.py __call__|772] [screen/AppController.py __call__|199] [util/InternalLibrary.py __call__|774] [system_time/time_settings.py __call__|49] [screen/Controller.py executeAction|70] [security_services/status_update.py doGetAvailabilityStatusAction|20] [shared/UpdateSupport.py get_available_updates|94]')
+2024-05-16T14:42:22.584020-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/system_time/time_settings?action=GetStatus&background_request=ignore&CSRFKey=45f4673a-6827-107d-c44b-05bc1460ee9c&rnd=1715884941711 HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:21.146584-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:21.042288-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:20.508461-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/system_time/time_settings HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:42:07.261016-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:42:07.153182-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:42:06.555836-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /system_administration/system_preferences/general_settings HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:38:45.975228-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:38:45.862381-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:38:45.325052-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 POST /system_administration/log_subscriptions HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:37:06.449908-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:37:06.366746-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /yui_webui HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+2024-05-16T14:37:05.757088-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 POST /system_administration/log_subscriptions HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
+2024-05-16T14:36:37.772641-04:00 [jsmith.acme.com] -- SMA_HTTP_Logs_HQ_Syslog: Info: req:10.0.0.12 user:acarlos$ id:sQKSpumsaWaU9k1QWWjs 200 GET /javascript?language=en-us HTTP/1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0
+
